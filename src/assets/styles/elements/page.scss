@@ -1,0 +1,16 @@
+:root{
+    --global-Clear: #10CCFF;
+    --global-Rain: #005DA5;
+    --global-text-color: #ffffff;
+    --global-Clouds: #00B4E6;
+
+    --global-weater: #10CCFF;
+}
+
+html, body
+{
+    font: 16px / 1.5 'IBM Plex Sans', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    background-color: var(--global-weater);
+    color: $global-text-color;
+}
+

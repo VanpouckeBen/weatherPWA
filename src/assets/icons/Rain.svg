@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 799.927 855.36">
+  <defs>
+    <style>
+      .cls-8{fill:#71bad7}
+    </style>
+  </defs>
+  <g id="Rain_cloud" data-name="Rain cloud" transform="translate(-95.653 170.797)">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="3" height="209" rx="1" transform="rotate(20 -462.83360266 1069.36473984)" opacity=".8" fill="#009dd3"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="3" height="209" rx="1" transform="rotate(20 -174.96848441 1275.9011399)" fill="#009dd3"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="3" height="170" rx="1" transform="rotate(20 -724.40461637 1293.83883534)" opacity=".7" fill="#009dd3"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="3" height="170" rx="1" transform="rotate(20 -1350.8615165 1024.20551707)" opacity=".2" fill="#009dd3"/>
+    <path id="Path_158" data-name="Path 158" d="M1 0h1a1 1 0 011 1v168a1 1 0 01-1 1H1a1 1 0 01-1-1V1a1 1 0 011-1z" transform="rotate(20 -769.78871638 1401.25062627)" opacity=".1" fill="#009dd3"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="3" height="169" rx="1" transform="rotate(20 -921.89948005 1334.51011716)" opacity=".6" fill="#009dd3"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="3" height="169" rx="1" transform="rotate(20 -925.33717549 867.3075716)" opacity=".3" fill="#009dd3"/>
+    <g id="Group_54" data-name="Group 54" transform="translate(77.687 -200.611)">
+      <path id="Path_16" data-name="Path 16" class="cls-8" d="M542.72 435.85H127.3a109.313 109.313 0 01-.968-218.623c8.01-104.682 95.737-187.413 202.418-187.413a202.166 202.166 0 01174.189 98.953 153.66 153.66 0 0139.781-5.261c86.119 0 156.173 70.069 156.173 156.172 0 86.122-70.054 156.172-156.173 156.172z"/>
+    </g>
+    <g id="Group_55" data-name="Group 55" transform="translate(196.687 -114.611)" opacity=".504">
+      <path id="Path_16-2" data-name="Path 16" class="cls-8" d="M542.72 435.85H127.3a109.313 109.313 0 01-.968-218.623c8.01-104.682 95.737-187.413 202.418-187.413a202.166 202.166 0 01174.189 98.953 153.66 153.66 0 0139.781-5.261c86.119 0 156.173 70.069 156.173 156.172 0 86.122-70.054 156.172-156.173 156.172z"/>
+    </g>
+  </g>
+</svg>

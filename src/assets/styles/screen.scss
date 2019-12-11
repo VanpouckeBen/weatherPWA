@@ -1,0 +1,19 @@
+// Settings
+@import './settings/global.scss';
+
+// Tools
+
+// Generic
+@import './generic/normalize.scss';
+
+// Elements
+@import './elements/elements.scss';
+
+// Object
+@import './objects/objects.scss';
+
+// Components
+@import './components/components.scss';
+// proberen we in te laden gekoppeld aan de HTML (liefst scoped).
+
+// Utilities

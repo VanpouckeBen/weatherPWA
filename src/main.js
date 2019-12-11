@@ -5,7 +5,13 @@ import './registerServiceWorker'
 
 Vue.config.productionTip = false
 
+
 new Vue({
   store,
   render: h => h(App)
 }).$mount('#app')
+
+Vue.filter("formatNumber", function (value) {
+  return Math.round(value);
+});
+

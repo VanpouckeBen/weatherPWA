@@ -1,0 +1,5 @@
+<svg data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 418">
+  <ellipse data-name="Ellipse 3" cx="202.5" cy="209" rx="202.5" ry="209" fill="#6dd5ff"/>
+  <ellipse data-name="Ellipse 2" cx="123" cy="121.5" rx="123" ry="121.5" transform="translate(62 74)" fill="#abe6e9"/>
+  <circle data-name="Ellipse 1" cx="47" cy="47" r="47" transform="translate(131 171)" fill="#fdff7a"/>
+</svg>
