@@ -1,5 +1,5 @@
 {
-  "name": "weaterpwa",
+  "name": "weather-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
-    "@vue/cli-plugin-pwa": "^4.0.0",
+    "@vue/cli-plugin-pwa": "^4.1.1",
     "@vue/cli-service": "^4.0.0",
     "sass": "^1.19.0",
     "sass-loader": "^8.0.0",
